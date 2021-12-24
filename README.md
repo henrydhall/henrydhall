@@ -1,4 +1,5 @@
-- Hello there, I’m Henry Hall. I'm pursuing a degree in applied math from BYU with a minor in computer science. I'm looking for work as a security analyst intern, but I'd be happy doing anything with software and technology. 
+- Hello there, I’m Henry Hall. I'm pursuing a degree in mathematics from Weber State. I'm looking for work as a security analyst intern, but I'd be happy doing anything with software and technology. 
+- Mostly right now I'm just messing around and doing personal projects that interest me and help me develop new skills.
 - I’m currently learning .NET Core and Entity Framework Core. I have experience in C/C++, Python, SQL/CCL, some web development, and some Java a long time ago.
 - I’m looking to collaborate on really anything, especially cyber security.
 - You can reach me at henrydhall3.14@gmail.com
