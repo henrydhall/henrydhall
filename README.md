@@ -12,3 +12,5 @@ Because these are projects which were originally school work, I have made them p
 - Relational Database Demo
 - 6 Degrees of Kevin Bacon
 - Bomblab
+
+I have a number of projects that I've used to help with Imaging Projects that have problems while I've been with FamilySearch. These include image processors to make sure images can be imported to our system, correcting naming conventions in projects, and reorganizing projects that were created incorrectly. If you'd like to see these feel free to reach out and we could chat about them.
