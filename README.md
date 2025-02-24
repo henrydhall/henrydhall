@@ -1,10 +1,9 @@
-- Hello there, I’m Henry Hall. I just graduated with a degree in applied mathematics and computer science from Weber State.
-- Currently working as a Digital Image Processing Intern.
+- Hello there, I’m Henry Hall. My degree is in applied mathematics and computer science from Weber State.
+- I am working as a Technology Service Analyst for Zions Bancorp. Most of my attention goes to there, so that commit history isn't public.
 - Mostly right now I'm just messing around and doing personal projects that interest me and help me develop new skills.
-- Currently working on some full stack Python applications. 
-- I have experience in C/C++, Python, SQL, a little MongoDB, and I've seen some Dotnet Core. I've done web development with Python/Flask.
-- I have a lot of academic experience with cryptography.
-- I’m looking to collaborate on really anything, especially cyber security.
+- Currently working on a game with PyGame.
+- I have experience in Python and web development with Flask. I worked with C/C++, SQL, and a little MongoDB in school.
+- I have a lot of academic exposure to cryptography.
 - You can reach me at henrydhall3.14@gmail.com
 
 ## Private Repositories
