@@ -1,7 +1,7 @@
 - Hello there, I’m Henry Hall. My degree is in applied mathematics and computer science from Weber State.
 - I am working as a Technology Service Analyst for Zions Bancorp. Most of my attention goes to there, so that commit history isn't public.
 - Mostly right now I'm just messing around and doing personal projects that interest me and help me develop new skills.
-- Currently working on a game with PyGame.
+- Currently working on a game with pygame.
 - I have experience in Python and web development with Flask. I worked with C/C++, SQL, and a little MongoDB in school.
 - I have a lot of academic exposure to cryptography.
 - You can reach me at henrydhall3.14@gmail.com
